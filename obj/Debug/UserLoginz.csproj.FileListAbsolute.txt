@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\UserLoginz\obj\Debug\UserLoginz.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UserLoginz\obj\Debug\UserLoginz.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\UserLoginz\obj\Debug\UserLoginz.csproj.CoreCompileInputs.cache
