@@ -1,3 +1,8 @@
 C:\Users\User\Desktop\UserLoginz\obj\Debug\UserLoginz.csproj.AssemblyReference.cache
 C:\Users\User\Desktop\UserLoginz\obj\Debug\UserLoginz.csproj.SuggestedBindingRedirects.cache
 C:\Users\User\Desktop\UserLoginz\obj\Debug\UserLoginz.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UserLoginz\bin\Debug\UserLoginz.exe.config
+C:\Users\User\Desktop\UserLoginz\bin\Debug\UserLoginz.exe
+C:\Users\User\Desktop\UserLoginz\bin\Debug\UserLoginz.pdb
+C:\Users\User\Desktop\UserLoginz\obj\Debug\UserLoginz.exe
+C:\Users\User\Desktop\UserLoginz\obj\Debug\UserLoginz.pdb

@@ -6,22 +6,21 @@ using System.Threading.Tasks;
 
 namespace UserLoginz
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            LoginValidation validation = new LoginValidation();
+            LoginValidation loginValidation = new LoginValidation();
 
-            if(validation.ValidateUserInput())
+            if (loginValidation.ValidateUserInput())
             {
-                Console.WriteLine(User.UserName);
-                Console.WriteLine(User.Password);
-                Console.WriteLine(User.FacNumber);
-                Console.WriteLine(User.Role);
-
-
-
+                Console.WriteLine(UserData.TestUser.UserName);
+                Console.WriteLine(UserData.TestUser.Password);
+                Console.WriteLine(UserData.TestUser.FacNumber);
+                Console.WriteLine(UserData.TestUser.Role);
             }
+
+            Console.WriteLine(LoginValidation.currentUserRole);
         }
     }
 }

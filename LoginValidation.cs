@@ -6,8 +6,15 @@ using System.Threading.Tasks;
 
 namespace UserLoginz
 {
-    internal class LoginValidation
+    public class LoginValidation
     {
-        public bool ValidateUserInput();
+        public static UserRoles currentUserRole { get; private set; }
+
+
+        public bool ValidateUserInput()
+        {
+            currentUserRole = UserRoles.ADMIN;
+            return true;
+        }
     }
 }
